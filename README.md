@@ -3,13 +3,13 @@
 
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 </p>
-<a href="mailto:contatolucasoficial0@gmail.com" alt="Gmail">
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[contatolucasoficial0@gmail.com]" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/mail.contatolucasoficial0@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
+<a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank">
   <img src="https://img.shields.io/badge/Arnaldo%20Lucas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/arnaldo-lucas-sd/"/>
 </a>
-<a href="https://www.instagram.com/luc.ig._/" alt="Instagram">
+<a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
 </a>
 
