@@ -1,6 +1,14 @@
 <!-- Parágrafo de introdução -->
-### Oi. Meu nome é Lucas. Esse é meu github. Bem-vindo! :)
+<h1 align="center">
+Olá. Seja bem-vindo(a)!
+</h1>
 
+
+
+<p align="center">
+Meu nome é Lucas. Esse é meu github. Aparentemente, adquiri gosto pela programação.<br/>
+  
+</p>
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 </p>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[contatolucasoficial0@gmail.com]" alt="Gmail" target="_blank">
@@ -15,9 +23,10 @@
 
 <!-- Estatísticas no github -->
 #### 📊 Estatísticas (Statistics):
-![Luc GitHub stats](https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&show_icons=true&theme=dark)](https://github.com/luc-gh/github-readme-stats)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&theme=dark"><br/>
+</p>
 #### 😎 Habilidades (Skills): <!-- seção de skills -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-7B0005?style=for-the-badge&logo=java&logoColor=EE8E1B" />
