@@ -18,7 +18,7 @@
 ![Luc GitHub stats](https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&show_icons=true&theme=dark)](https://github.com/luc-gh/github-readme-stats)
 
-#### 😎 Habilidades (Skills) <!-- seção de skills -->
+#### 😎 Habilidades (Skills): <!-- seção de skills -->
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-7B0005?style=for-the-badge&logo=java&logoColor=EE8E1B" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
@@ -31,4 +31,6 @@
 ![](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=87CEFA)
 
 #### 🎓 Formação acadêmica (Education):
-- Técnico em Eletroeletrônica - Instituto Federal de Alagoas - Campus Arapiraca (2018 - 2022)
+- Ensino Médio Completo - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)
+- Técnico em Eletroeletrônica - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)
+- Graduando em Ciência da Computação - Universidade Federal de Alagoas (UFAL) - Campus Arapiraca (2022-) 
