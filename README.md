@@ -8,6 +8,7 @@
   <b>Meu nome é Lucas. Esse é meu github. Aparentemente, adquiri gosto pela programação.</b><br/>
 </p>
 
+<div><br></div>
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
@@ -23,8 +24,9 @@
   </a>
 </section>
 
-<!-- Estatísticas no github -->
-<section align="center">
+<div><br></div>
+
+<section align="center"> <!-- Estatísticas no github -->
   <h2>📊 Estatísticas (Statistics):</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark"><br/>
@@ -32,15 +34,17 @@
   </p>
 </section>
 
-<!-- Detaques sobre as habilidades pessoais -->
-<section align="center">
+<div><br></div>
+
+<section align="center"> <!-- Detaques sobre as habilidades pessoais -->
   <h2>😎 Habilidades (Skills):</h2>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-7B0005?style=for-the-badge&logo=java&logoColor=EE8E1B" title="Linguagem de programação Java (conhecimento básico)"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" title="Linguagem de programação Python (conhecimento básico)"/>
 </section>
 
-<!-- Seção sobre os estudos atuais -->
-<section align="center">
+<div><br></div>
+
+<section align="center"> <!-- Seção sobre os estudos atuais -->
   <h2>📚 Estudando (Learning):</h2>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Linguagem de marcação HTML5"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="Linguagem de descrição de estilo CSS3"/>
@@ -48,8 +52,34 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=87CEFA" title="Linguagem de programação C"/>
 </section>
 
-<!-- Seção de formação acadêmica -->
-<section align="center">
+<div><br></div>
+
+<section align="center"> <!-- Seção sobre interesses -->
+  <h2>:thought_balloon: Interesses (Interests):</h2>
+  <img align="center" alt="" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Android-A4DE02?style=for-the-badge&logo=android&logoColor=gray" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title=""/>
+  <div><br></div>
+  <img align="center" alt="" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Adobe%20Photoshop-0D214F?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00FFF6" title=""/>
+  <div><br></div>
+  <img align="center" alt="" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/IntelliJ_IDEA-121212.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/PyCharm-FFFF00.svg?&style=for-the-badge&logo=PyCharm&logoColor=007F00" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Trello-249225?style=for-the-badge&logo=trello&logoColor=white" title=""/>
+  <img align="center" alt="" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=gray" title=""/>
+  <img align="center" alt="" src="" title=""/>
+</section
+
+<div><br></div>
+
+<section align="center"> <!-- Seção de formação acadêmica -->
   <h2>🎓 Formação acadêmica (Education):</h2>
   Ensino Médio Completo - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
   Técnico em Eletroeletrônica - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
