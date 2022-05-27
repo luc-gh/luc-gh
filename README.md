@@ -29,8 +29,8 @@
 <section align="center"> <!-- Estatísticas no github -->
   <h2>📊 Estatísticas (Statistics):</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&theme=dark"><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&theme=dark"><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&theme=dark"><br/>
   </p>
 </section>
 
