@@ -37,8 +37,12 @@
 <section align="center"> <!-- Seção de repos-->
   <h2>🔖 Repositórios em destaque (Featured repos):</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_python&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=luc-gh&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800"><br/>
+    <a href="https://github.com/luc-gh/snake_python" alt="snake_python" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_python&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
+    </a>
+    <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=luc-gh&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800"><br/>
+    </a>
   </p>
 </section>
 
