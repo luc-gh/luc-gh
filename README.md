@@ -30,6 +30,7 @@
   <h2>📊 Estatísticas (Statistics):</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=010101&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF">
+    <br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&border=FFFFFF&dates=7A7A7A">
     <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC"><br/><br/>
