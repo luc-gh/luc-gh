@@ -13,7 +13,7 @@
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
   
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[contatolucasoficial0@gmail.com]" alt="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/mail.contatolucasoficial0@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
   </a>
   <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank">
