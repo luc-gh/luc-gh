@@ -102,5 +102,4 @@
   Ensino Médio Completo - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
   Técnico em Eletroeletrônica - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
   Graduando em Ciência da Computação - Universidade Federal de Alagoas (UFAL) - Campus Arapiraca (2022-)
-  </ul>
 </section>
