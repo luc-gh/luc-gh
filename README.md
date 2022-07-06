@@ -80,7 +80,7 @@
   <a href="https://github.com/topics/android"><img align="center" alt="Android" src="https://img.shields.io/badge/Android-A4DE02?style=for-the-badge&logo=android&logoColor=gray" title="Android"/></a>
   <a href="https://github.com/topics/windows"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/></a>
   <div><br></div>
-  <a href="www.netflix.com"><img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title="Netflix"/></a>
+  <a href="https://netflix.com"><img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title="Netflix"/></a>
   <a href="https://github.com/topics/react-native"><img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native"/></a>
   <a href="https://github.com/topics/unity"><img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" title="Unity"/></a>
   <a href="https://github.com/topics/steam"><img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/></a>
@@ -90,7 +90,7 @@
   <a href="https://github.com/topics/intellij-idea"><img align="center" alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-121212.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Intellij IDEA"/></a>
   <a href="https://github.com/topics/pycharm"><img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FFFF00.svg?&style=for-the-badge&logo=PyCharm&logoColor=007F00" title="PyCharm"/></a>
   <a href="https://github.com/trello"><img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-249225?style=for-the-badge&logo=trello&logoColor=white" title="Trello"/></a>
-  <a href="www.wikipedia.org/wiki/Adobe_Illustrator"><img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=gray" title=""/></a>
+  <a href="https://wikipedia.org/wiki/Adobe_Illustrator"><img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=gray" title=""/></a>
   <img align="center" alt="" src="" title=""/>
 </section
 
