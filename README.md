@@ -74,24 +74,23 @@
 
 <section align="center"> <!-- Seção sobre interesses -->
   <h2>:thought_balloon: Interesses (Interests):</h2>
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title=""/>
-  <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title=""/>
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title=""/>
-  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-A4DE02?style=for-the-badge&logo=android&logoColor=gray" title=""/>
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title=""/>
+  <a href="https://github.com/github"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/></a>
+  <a href="https://github.com/topics/instagram"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title=""/></a>
+  <a href="https://linkedin.com/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
+  <a href="https://github.com/topics/android"><img align="center" alt="Android" src="https://img.shields.io/badge/Android-A4DE02?style=for-the-badge&logo=android&logoColor=gray" title="Android"/></a>
+  <a href="https://github.com/topics/windows"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/></a>
   <div><br></div>
-  <img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title=""/>
-  <img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title=""/>
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" title=""/>
-  <img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title=""/>
-  <img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" title=""/>
-  <img align="center" alt="Adobe" src="https://img.shields.io/badge/Adobe%20Photoshop-0D214F?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00FFF6" title=""/>
+  <a href="www.netflix.com"><img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title="Netflix"/></a>
+  <a href="https://github.com/topics/react-native"><img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native"/></a>
+  <a href="https://github.com/topics/unity"><img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" title="Unity"/></a>
+  <a href="https://github.com/topics/steam"><img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/></a>
+  <a href="https://wikipedia.org/wiki/Adobe_Photoshop"><img align="center" alt="Adobe PS" src="https://img.shields.io/badge/Adobe%20Photoshop-0D214F?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00FFF6" title="PhotoShop"/></a>
   <div><br></div>
-  <img align="center" alt="Android_Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black" title=""/>
-  <img align="center" alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-121212.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title=""/>
-  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FFFF00.svg?&style=for-the-badge&logo=PyCharm&logoColor=007F00" title=""/>
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-249225?style=for-the-badge&logo=trello&logoColor=white" title=""/>
-  <img align="center" alt="Adobe" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=gray" title=""/>
+  <a href="https://github.com/topics/android-studio"><img align="center" alt="Android_Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black" title="AS"/></a>
+  <a href="https://github.com/topics/intellij-idea"><img align="center" alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-121212.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="Intellij IDEA"/></a>
+  <a href="https://github.com/topics/pycharm"><img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-FFFF00.svg?&style=for-the-badge&logo=PyCharm&logoColor=007F00" title="PyCharm"/></a>
+  <a href="https://github.com/trello"><img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-249225?style=for-the-badge&logo=trello&logoColor=white" title="Trello"/></a>
+  <a href="www.wikipedia.org/wiki/Adobe_Illustrator"><img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=gray" title=""/></a>
   <img align="center" alt="" src="" title=""/>
 </section
 
