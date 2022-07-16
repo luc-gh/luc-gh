@@ -41,7 +41,7 @@
   <h2>🔖 Repositórios em destaque (Featured repos):</h2>
   <p>
     <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=majorElement&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=luc-gh&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
     </a>
     <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=libGDX_firstGame&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
