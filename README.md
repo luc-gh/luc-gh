@@ -29,9 +29,11 @@
 <section align="center"> <!-- Estatísticas no github -->
   <h2>📊 Estatísticas (Statistics):</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=010101&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&border=FFFFFF&dates=7A7A7A">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=448"><br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=010101&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&border=FFFFFF&dates=7A7A7A" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=468" />
+    <a href="https://github.com/luc-gh"><img width=815em alt="Atividades de luc-gh" src="https://activity-graph.herokuapp.com/graph?username=luc-gh&custom_title=Atividades%20de%20Lucas&theme=xcode" /></a>
+    <br/><br/>
   </p>
 </section>
 
@@ -49,10 +51,8 @@
     </a>
     <a href="https://github.com/luc-gh/snake_js" alt="snake_js" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_js&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    </a>
-    <a href="https://github.com/luc-gh?tab=repositories"><br><br>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/<< Ver mais || See more >>-2a2a2a?style=for-the-badge"/>
-    </a>
+    </a><br>
+    <a href="https://github.com/luc-gh?tab=repositories" align="center"><kbd>&nbsp&nbsp&nbsp&nbsp<<    &nbsp&nbsp&nbspVer mais &nbsp&nbsp||&nbsp&nbsp See more&nbsp&nbsp&nbsp >>&nbsp&nbsp&nbsp&nbsp</kbd></a>
   </p>
 </section>
 
