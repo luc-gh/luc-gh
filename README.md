@@ -50,7 +50,9 @@
     <a href="https://github.com/luc-gh/snake_js" alt="snake_js" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_js&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
     </a>
-    
+    <a href="https://github.com/luc-gh?tab=repositories"><br><br>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/<< Ver mais || See more >>-2a2a2a?style=for-the-badge"/>
+    </a>
   </p>
 </section>
 
