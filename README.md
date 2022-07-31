@@ -52,7 +52,18 @@
     <a href="https://github.com/luc-gh/snake_js" alt="snake_js" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_js&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
     </a><br>
-    <a href="https://github.com/luc-gh?tab=repositories" align="center"><kbd>&nbsp&nbsp&nbsp&nbsp<<    &nbsp&nbsp&nbspVer mais &nbsp&nbsp||&nbsp&nbsp See more&nbsp&nbsp&nbsp >>&nbsp&nbsp&nbsp&nbsp</kbd></a>
+    <a href="https://github.com/luc-gh?tab=repositories" align="center">
+    <kbd>
+    <<&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    Ver mais
+    &nbsp&nbsp&nbsp
+    ||
+    &nbsp&nbsp&nbsp
+    See more
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp>>
+    </kbd></a>
   </p>
 </section>
 
