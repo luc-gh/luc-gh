@@ -69,6 +69,25 @@
 
 <div><br></div>
 
+<section align="center"> <!-- Seção de Listas -->
+  <h2>:clipboard: Listas (Lists):</h2>
+  <p>
+    <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos">
+      <kbd>&nbsp&nbsp Repositórios favoritos &nbsp&nbsp</kbd>
+    </a>
+    <a href="https://github.com/stars/luc-gh/lists/estudo-de-libgdx">
+      <kbd>&nbsp&nbsp Estudo de libGDX &nbsp&nbsp</kbd>
+    </a>
+    <a href="https://github.com/stars/luc-gh/lists/outros">
+      <kbd>&nbsp&nbsp Outros &nbsp&nbsp</kbd>
+    </a>
+    <br>
+    &nbsp
+  </p>
+</section>
+
+<div></div>
+
 <!-- <section align="center"> <!-- Detaques sobre as habilidades pessoais
   <h2>😎 Habilidades (Skills):</h2>
   
