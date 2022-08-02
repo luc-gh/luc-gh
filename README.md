@@ -76,7 +76,7 @@
       <kbd>&nbsp&nbsp Repositórios favoritos &nbsp&nbsp</kbd>
     </a>
     <a href="https://github.com/stars/luc-gh/lists/estudo-de-libgdx">
-      <kbd>&nbsp&nbsp Estudo de libGDX &nbsp&nbsp</kbd>
+      <kbd>&nbsp&nbsp Estudo sobre o framework libGDX &nbsp&nbsp</kbd>
     </a>
     <a href="https://github.com/stars/luc-gh/lists/outros">
       <kbd>&nbsp&nbsp Outros &nbsp&nbsp</kbd>
