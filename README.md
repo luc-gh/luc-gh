@@ -75,7 +75,7 @@
     <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos">
       <kbd>&nbsp&nbsp Repositórios favoritos &nbsp&nbsp</kbd>
     </a>
-    <a href="https://github.com/stars/luc-gh/lists/estudo-de-libgdx">
+    <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx">
       <kbd>&nbsp&nbsp Estudo sobre o framework libGDX &nbsp&nbsp</kbd>
     </a>
     <a href="https://github.com/stars/luc-gh/lists/outros">
