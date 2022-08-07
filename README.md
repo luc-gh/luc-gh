@@ -81,10 +81,10 @@
     <a href="https://github.com/stars/luc-gh/lists/outros">
       <kbd>&nbsp&nbsp Outros &nbsp&nbsp</kbd>
     </a>
-    <br>
     <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens">
       <kbd>Estudo básico de linguagens</kbd>
     </a>
+    <br>
     &nbsp
   </p>
 </section>
