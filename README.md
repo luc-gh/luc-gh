@@ -82,7 +82,7 @@
       <kbd>&nbsp&nbsp Outros &nbsp&nbsp</kbd>
     </a>
     <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens">
-      <kbd>Estudo básico de linguagens</kbd>
+      <kbd>&nbsp&nbsp Estudo básico de linguagens &nbsp&nbsp</kbd>
     </a>
     <br>
     &nbsp
