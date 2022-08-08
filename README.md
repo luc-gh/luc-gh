@@ -5,10 +5,19 @@
 </h1>
 
 <p align="center">
-  <b>Meu nome é Lucas. Esse é meu github. Aparentemente, adquiri gosto pela programação.</b><br/>
+  <b>Meu nome é Lucas. Esse é meu github. Aparentemente, adquiri gosto pela programação.</b><br><br>
+  <a href="#">
+  <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="#">
+  <img align="center" title="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </a>
+  <a href="https://libgdx.com/">
+  <img align="center" title="libGDX" width="105" src="https://libgdx.com/assets/images/logo.png">
+  </a>
 </p>
 
-<div><br></div>
+<div></div>
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
@@ -115,7 +124,7 @@
 <section align="center"> <!-- Seção sobre interesses -->
   <h2>:thought_balloon: Interesses (Interests):</h2>
   <a href="https://github.com/github"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/></a>
-  <a href="https://github.com/topics/instagram"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title=""/></a>
+  <a href="https://github.com/topics/instagram"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title="Instagram"/></a>
   <a href="https://linkedin.com/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
   <a href="https://github.com/topics/android"><img align="center" alt="Android" src="https://img.shields.io/badge/Android-A4DE02?style=for-the-badge&logo=android&logoColor=gray" title="Android"/></a>
   <a href="https://github.com/topics/windows"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/></a>
