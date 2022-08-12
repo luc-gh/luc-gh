@@ -108,7 +108,7 @@
 <div><br></div> -->
 
 <section align="center"> <!-- Seção sobre os estudos atuais -->
-  <h2>📚 Estudando (Learning):</h2>
+  <h2>:gear: Utilizando (Using):</h2>
   <a href="https://github.com/topics/java"><img align="center" alt="Java" src="https://img.shields.io/badge/Java-7B0005?style=for-the-badge&logo=java&logoColor=EE8E1B" title="Linguagem de programação Java"/></a>
   <a href="https://github.com/topics/python"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" title="Linguagem de programação Python"/></a>
   <a href="https://github.com/topics/html"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="Linguagem de marcação HTML"/></a>
