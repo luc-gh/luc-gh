@@ -130,7 +130,7 @@
   <a href="https://github.com/topics/windows"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/></a>
   <div><br></div>
   <a href="https://netflix.com"><img align="center" alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=black" title="Netflix"/></a>
-  <a href="https://github.com/topics/react-native"><img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React Native"/></a>
+  <a href="https://github.com/topics/react-native"><img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-DADBD9?style=for-the-badge&logo=react&logoColor=1141AE" title="React Native"/></a>
   <a href="https://github.com/topics/unity"><img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" title="Unity"/></a>
   <a href="https://github.com/topics/steam"><img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/></a>
   <a href="https://wikipedia.org/wiki/Adobe_Photoshop"><img align="center" alt="Adobe PS" src="https://img.shields.io/badge/Adobe%20Photoshop-0D214F?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00FFF6" title="PhotoShop"/></a>
