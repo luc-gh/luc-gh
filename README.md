@@ -23,7 +23,7 @@
   <h2>👨 Pessoal (Personal): </h2>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <code>Gmail pessoal</code>
-  &nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp
   <code>Gmail institucional</code><br>
   &nbsp&nbsp
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
