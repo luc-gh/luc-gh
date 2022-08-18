@@ -21,7 +21,7 @@
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <code>Gmail pessoal</code>
   &nbsp&nbsp&nbsp
   <code>Gmail institucional</code><br>
