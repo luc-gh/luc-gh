@@ -21,10 +21,10 @@
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <kbd>Gmail pessoal</kbd>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <code>Gmail pessoal</code>
   &nbsp&nbsp&nbsp&nbsp
-  <kbd>Gmail institucional</kbd><br>
+  <code>Gmail institucional</code><br>
   &nbsp&nbsp
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/mail.contatolucasoficial0@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
