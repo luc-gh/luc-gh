@@ -21,23 +21,18 @@
 <!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
 <section align="center">
   <h2>👨 Pessoal (Personal): </h2>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <code>Gmail pessoal</code>
-  &nbsp&nbsp&nbsp
-  <code>Gmail institucional</code><br>
-  &nbsp&nbsp
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/mail.contatolucasoficial0@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
+    <img src="https://img.shields.io/badge/Email Profissional-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
   </a>
-  &nbsp&nbsp&nbsp
+  &nbsp
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.duarte@arapiraca.ufal.br" alt="Gmail institucional" target="_blank">
-    <img src="https://img.shields.io/badge/mail.arnaldo.duarte@arapiraca.ufal.br-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.duarte@arapiraca.ufal.br"/>
+    <img src="https://img.shields.io/badge/Email Institucional-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.duarte@arapiraca.ufal.br"/>
   </a>
-  <br>
+  &nbsp
   <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank">
     <img src="https://img.shields.io/badge/Arnaldo%20Lucas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/arnaldo-lucas-sd/"/>
   </a>
-  &nbsp&nbsp&nbsp
+  &nbsp
   <a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
   </a>
