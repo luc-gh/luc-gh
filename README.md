@@ -36,7 +36,6 @@
   <a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
   </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </section>
 
 <div><br></div>
