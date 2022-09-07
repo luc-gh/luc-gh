@@ -19,12 +19,12 @@
   <a href="#">
   <img align="center" title="Dart" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
-  <a href="#">
+  <!--   <a href="#">
   <img align="center" title="Flutter" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </a>
   <a href="#">
   <img align="center" title="MySQL" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>
+  </a>      -->
   <a href="#">
   <img align="center" title="HTML" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
