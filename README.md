@@ -34,8 +34,8 @@
 <div align="center">
 <table>
 <tr>
-  <td width=398>
-    <ul>
+  <td width=430>
+    <ul><br>
     <li>
       Email Pessoal: &nbsp
       <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
@@ -78,64 +78,67 @@
     </li>
     </ul>
   </td>
-  <td>
-    <a href="https://github.com/luc-gh/"><img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF&hide_border=true" /></a>
+  <td width=430>
+    <ul>
+      <li>
+        <p>
+          Repositórios em destaque (Featured repos): 🔖 <br>
+          <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank"><kbd>
+            luc-gh
+          </kbd></a>
+          &nbsp
+          <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
+            snake_js
+          </kbd></a>
+          <br>
+          <a href="https://github.com/luc-gh/majorElement" alt="majorElement" target="_blank"><kbd>
+            majorElement
+          </kbd></a>
+          &nbsp
+          <a  href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
+            libGDX_firstGame
+          </kbd></a>
+        </p>
+      </li>
+      <li>
+        <p>
+          Listas (Lists): :clipboard: <br>
+          <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos"><kbd>
+            Repositórios favoritos
+          </kbd></a>
+          &nbsp
+          <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx"><kbd>
+            Estudo sobre o framework libGDX
+          </kbd></a>
+          <br>
+          <a href="https://github.com/stars/luc-gh/lists/outros"><kbd>
+            Outros
+          </kbd></a>
+          &nbsp
+          <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens"><kbd>
+            Estudo básico de linguagens
+          </kbd></a>
+        </p>
+      </li>
+    </ul>
   </td>
 </tr>
-<tr>
-  <td>
-    <a href="https://github.com/luc-gh/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=262b2f&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&hide_border=true&dates=AAAAAA" /></a>
-  </td>
-  <td>
-    <a href="https://github.com/luc-gh/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=262b2f&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=448&langs_count=10&hide_border=true" /></a>
-  </td>
-</tr>
+
 </table>
 </div>
 
-<div>
-<ul>
-<li>
-  <p>
-    🔖 Repositórios em destaque (Featured repos): &nbsp
-    <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank"><kbd>
-      luc-gh
-    </kbd></a>
-    &nbsp
-    <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
-      snake_js
-    </kbd></a>
-    &nbsp
-    <a href="https://github.com/luc-gh/majorElement" alt="majorElement" target="_blank"><kbd>
-      majorElement
-    </kbd></a>
-    &nbsp
-    <a  href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
-      libGDX_firstGame
-    </kbd></a>
-  </p>
-</li>
-<li>
-  <p>
-    :clipboard: Listas (Lists): &nbsp
-    <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos"><kbd>
-      Repositórios favoritos
-    </kbd></a>
-    &nbsp
-    <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx"><kbd>
-      Estudo sobre o framework libGDX
-    </kbd></a>
-    &nbsp
-    <a href="https://github.com/stars/luc-gh/lists/outros"><kbd>
-      Outros
-    </kbd></a>
-    &nbsp
-    <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens"><kbd>
-      Estudo básico de linguagens
-    </kbd></a>
-  </p>
-</li>
-</ul>  
+<div align="center">
+  <a href="https://github.com/luc-gh/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=814&langs_count=12" />
+  </a>
+  <br><br>
+  <a href="https://github.com/luc-gh/">
+    <img width="426" src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" />
+  </a>
+  &nbsp
+  <a href="https://github.com/luc-gh/">
+    <img width="426" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&dates=878787" />
+  </a> 
 </div>
 
 
