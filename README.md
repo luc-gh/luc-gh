@@ -1,118 +1,147 @@
 <!-- Parágrafo de introdução -->
-<p align="center"><i>Hello. Welcome, everyone!</i></p>
-<h1 align="center">
-  Olá. Seja bem-vindo(a)!
+<h1>
+  <samp>Olá. Seja bem-vindo(a)!</samp> &nbsp
 </h1>
 
-<p align="center">
-  <b>Meu nome é Lucas. Esse é meu github. Aparentemente, adquiri gosto pela programação.</b><br><br>
+<p>
+  <b>Meu nome é Lucas. Aparentemente, adquiri um certo gosto pela programação.</b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="#">
   <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
   <a href="#">
   <img align="center" title="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </a>
+  &nbsp
   <a href="https://libgdx.com/">
   <img align="center" title="libGDX" width="105" src="https://libgdx.com/assets/images/logo.png">
   </a>
+  &nbsp
+  <a href="#">
+  <img align="center" title="Dart" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  </a>
+  <a href="#">
+  <img align="center" title="Flutter" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  </a>
+  <a href="#">
+  <img align="center" title="MySQL" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </a>
+  <a href="#">
+  <img align="center" title="HTML" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
 </p>
 
-<div></div>
-<!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) -->
-<section align="center">
-  <h2>👨 Pessoal (Personal): </h2>
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Email Profissional-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
-  </a>
-  &nbsp
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.duarte@arapiraca.ufal.br" alt="Gmail institucional" target="_blank">
-    <img src="https://img.shields.io/badge/Email Institucional-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.duarte@arapiraca.ufal.br"/>
-  </a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank">
-    <img src="https://img.shields.io/badge/Arnaldo%20Lucas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/arnaldo-lucas-sd/"/>
-  </a>
-  &nbsp
-  <a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
-  </a>
-</section>
+<!-- Badges referentes a LinkedIn, Instagram e Gmail (contato) ------------------------------------------------------------->
+<div align="center">
+<table>
+<tr>
+  <td width=460>
+    <ul>
+    <li>
+      Email Profissional: &nbsp
+      <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
+        <kbd>
+          <img src="https://img.shields.io/badge/contatolucasoficial0-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
+        </kbd>
+      </a>
+    </li>
+    <li>
+      Email Institucional: &nbsp
+      <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.duarte@arapiraca.ufal.br" alt="Gmail" target="_blank">
+        <kbd>
+        <img src="https://img.shields.io/badge/arnaldo.duarte-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.duarte@arapiraca.ufal.br"/>
+        </kbd>
+      </a>
+    </li>
+    <li>
+      LinkedIn: &nbsp
+      <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank" alt="LinkedIn">
+        <kbd>
+          <img src="https://img.shields.io/badge/Arnaldo%20Lucas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/arnaldo-lucas-sd/"/>
+        </kbd>
+      </a>
+    </li>
+    <li>
+      Instagram: &nbsp
+      <a href="href="https://www.instagram.com/luc.ig._/" target="_blank" alt="LinkedIn">
+      <kbd>
+        <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
+      </kbd>
+      </a>
+    </li>
+    </ul>
+  </td>
+  <td>
+    <a href="https://github.com/luc-gh/"><img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF&hide_border=true" /></a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/luc-gh/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=262b2f&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&hide_border=true&dates=7A7A7A" /></a>
+  </td>
+  <td>
+    <a href="https://github.com/luc-gh/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=262b2f&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=448&langs_count=10&hide_border=true" /></a>
+  </td>
+</tr>
+</table>
+</div>
 
-<div><br></div>
-
-<section align="center"> <!-- Estatísticas no github -->
-  <h2>📊 Estatísticas (Statistics):</h2>
+<div>
+<ul>
+<li>
   <p>
-    <a href="https://github.com/luc-gh/"><img src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=010101&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" /></a>
-    <a href="https://github.com/luc-gh/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&border=FFFFFF&dates=7A7A7A" /></a>
-    <a href="https://github.com/luc-gh/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=448&langs_count=10" /></a><br/><br>
-    <!--<a href="https://github.com/luc-gh"><img width=815em alt="Atividades de luc-gh" src="https://activity-graph.herokuapp.com/graph?username=luc-gh&custom_title=Atividades%20de%20Lucas&theme=xcode" /></a>
-    <br/>--><br/>
-  </p>
-</section>
-
-<section align="center"> <!-- Seção de repos-->
-  <h2>🔖 Repositórios em destaque (Featured repos):</h2>
-  <p>
-    <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=luc-gh&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    </a>
-    <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=libGDX_firstGame&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    </a>
-    <a href="https://github.com/luc-gh/majorElement" alt="majorElement" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=majorElement&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    </a>
-    <a href="https://github.com/luc-gh/snake_js" alt="snake_js" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luc-gh&repo=snake_js&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=FF2800">
-    </a><br>
-    <a href="https://github.com/luc-gh?tab=repositories" align="center">
-    <kbd>
-    <<&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    Veja mais
-    &nbsp&nbsp&nbsp
-    ||
-    &nbsp&nbsp&nbsp
-    View more
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp>>
+    🔖 Repositórios em destaque (Featured repos): &nbsp
+    <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank"><kbd>
+      luc-gh
+    </kbd></a>
+    &nbsp
+    <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
+      snake_js
+    </kbd></a>
+    &nbsp
+    <a href="https://github.com/luc-gh/majorElement" alt="majorElement" target="_blank"><kbd>
+      majorElement
+    </kbd></a>
+    &nbsp
+    <a  href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
+      libGDX_firstGame
     </kbd></a>
   </p>
-</section>
-
-<div><br></div>
-
-<section align="center"> <!-- Seção de Listas -->
-  <h2>:clipboard: Listas (Lists):</h2>
+</li>
+<li>
   <p>
-    <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos">
-      <kbd>&nbsp&nbsp Repositórios favoritos &nbsp&nbsp</kbd>
-    </a>
-    <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx">
-      <kbd>&nbsp&nbsp Estudo sobre o framework libGDX &nbsp&nbsp</kbd>
-    </a>
-    <a href="https://github.com/stars/luc-gh/lists/outros">
-      <kbd>&nbsp&nbsp Outros &nbsp&nbsp</kbd>
-    </a>
-    <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens">
-      <kbd>&nbsp&nbsp Estudo básico de linguagens &nbsp&nbsp</kbd>
-    </a>
-    <br>
+    :clipboard: Listas (Lists): &nbsp
+    <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos"><kbd>
+      Repositórios favoritos
+    </kbd></a>
     &nbsp
+    <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx"><kbd>
+      Estudo sobre o framework libGDX
+    </kbd></a>
+    &nbsp
+    <a href="https://github.com/stars/luc-gh/lists/outros"><kbd>
+      Outros
+    </kbd></a>
+    &nbsp
+    <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens"><kbd>
+      Estudo básico de linguagens
+    </kbd></a>
   </p>
-</section>
+</li>
+</ul>  
+</div>
 
-<div></div>
 
-<!-- <section align="center"> <!-- Detaques sobre as habilidades pessoais
+<!-- 
+
+
+<section align="center"> <!-- Detaques sobre as habilidades pessoais
   <h2>😎 Habilidades (Skills):</h2>
   
 </section>
 
-<div><br></div> -->
+<div><br></div> 
 
-<section align="center"> <!-- Seção sobre os estudos atuais -->
+<section align="center"> <!-- Seção sobre os estudos atuais
   <h2>:gear: Utilizando (Using):</h2>
   <a href="https://github.com/topics/java"><img align="center" alt="Java" src="https://img.shields.io/badge/Java-7B0005?style=for-the-badge&logo=java&logoColor=EE8E1B" title="Linguagem de programação Java"/></a>
   <a href="https://github.com/topics/python"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" title="Linguagem de programação Python"/></a>
@@ -126,7 +155,7 @@
 
 <div><br></div>
 
-<section align="center"> <!-- Seção sobre interesses -->
+<section align="center"> <!-- Seção sobre interesses
   <h2>:thought_balloon: Interesses (Interests):</h2>
   <a href="https://github.com/github"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/></a>
   <a href="https://github.com/topics/instagram"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" title="Instagram"/></a>
@@ -150,9 +179,14 @@
 
 <div><br></div>
 
-<section align="center"> <!-- Seção de formação acadêmica -->
+<section align="center"> <!-- Seção de formação acadêmica 
   <h2>🎓 Formação acadêmica (Education):</h2>
   Ensino Médio Completo - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
   Técnico em Eletroeletrônica - Instituto Federal de Alagoas (IFAL) - Campus Arapiraca (2018-2022)<br/>
   Graduando em Ciência da Computação - Universidade Federal de Alagoas (UFAL) - Campus Arapiraca (2022-)
-</section>
+</section> 
+
+
+
+
+-->
