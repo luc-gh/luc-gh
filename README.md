@@ -62,7 +62,7 @@
     </li>
     <li>
       Instagram: &nbsp
-      <a href="href="https://www.instagram.com/luc.ig._/" target="_blank" alt="LinkedIn">
+      <a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
       <kbd>
         <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
       </kbd>
