@@ -133,11 +133,11 @@
   </a>
   <br><br>
   <a href="https://github.com/luc-gh/">
-    <img width="426" src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" />
+    <img width="410" src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" />
   </a>
   &nbsp
   <a href="https://github.com/luc-gh/">
-    <img width="426" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&dates=878787" />
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&dates=878787" />
   </a> 
 </div>
 
