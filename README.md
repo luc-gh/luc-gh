@@ -34,7 +34,7 @@
 <div align="center">
 <table>
 <tr>
-  <td width=423>
+  <td width=415>
     <ul>
     <li>
       Email Profissional: &nbsp
