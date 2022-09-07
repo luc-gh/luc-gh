@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  <b>Meu nome é Lucas. Aparentemente, adquiri um certo gosto pela programação.</b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="#">
   <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
@@ -34,10 +34,10 @@
 <div align="center">
 <table>
 <tr>
-  <td width=415>
+  <td width=398>
     <ul>
     <li>
-      Email Profissional: &nbsp
+      Email Pessoal: &nbsp
       <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
         <kbd>
           <img src="https://img.shields.io/badge/contatolucasoficial0-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/luc-gh/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=262b2f&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&hide_border=true&dates=7A7A7A" /></a>
+    <a href="https://github.com/luc-gh/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=262b2f&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&hide_border=true&dates=AAAAAA" /></a>
   </td>
   <td>
     <a href="https://github.com/luc-gh/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=262b2f&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=448&langs_count=10&hide_border=true" /></a>
