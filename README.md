@@ -72,7 +72,7 @@
       Gist: &nbsp
       <a href="https://gist.github.com/luc-gh">
         <kbd>
-          <img src="https://img.shields.io/badge/Gists-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/gist/github/luc–gh-100000?style=for-the-badge&logo=github&logoColor=white" />
         </kbd>
       </a>
     </li>
