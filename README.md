@@ -1,10 +1,10 @@
 <!-- Parágrafo de introdução -->
 <h1>
-  <samp>Olá. Seja bem-vindo(a)!</samp> &nbsp
+  &nbsp <samp>Olá. Seja bem-vindo(a)!</samp> &nbsp
 </h1>
 
-<p>
-  <b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b> &nbsp&nbsp&nbsp
+<p> &nbsp
+  <b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b> &nbsp&nbsp
   <a href="#">
   <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
