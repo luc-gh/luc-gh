@@ -1,6 +1,6 @@
 <!-- Parágrafo de introdução -->
 <h1 align="center">
-  <samp>Olá. Seja bem-vindo(a)!</samp> &nbsp
+  <samp>Olá. Seja bem-vindo(a)!</samp>
 </h1>
 
 <p align="center"> 
