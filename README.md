@@ -46,9 +46,9 @@
     </li>
     <li>
       Email Institucional: &nbsp
-      <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.duarte@arapiraca.ufal.br" alt="Gmail" target="_blank">
+      <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.lucas@arapiraca.ufal.br" alt="Gmail" target="_blank">
         <kbd>
-        <img src="https://img.shields.io/badge/arnaldo.duarte-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.duarte@arapiraca.ufal.br"/>
+        <img src="https://img.shields.io/badge/arnaldo.lucas-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.lucas@arapiraca.ufal.br"/>
         </kbd>
       </a>
     </li>
