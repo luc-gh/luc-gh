@@ -1,10 +1,10 @@
 <!-- Parágrafo de introdução -->
-<h1>
+<h1 align="center">
   <samp>Olá. Seja bem-vindo(a)!</samp> &nbsp
 </h1>
 
-<p> &nbsp
-  <b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b> &nbsp&nbsp
+<p align="center"> 
+  <b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b> &nbsp&nbsp&nbsp
   <a href="#">
   <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
@@ -82,13 +82,17 @@
     <ul>
       <li>
         <p>
-          Repositórios em destaque (Featured repos): 🔖 <br>
+          Repositórios em destaque (Featured repos): <sub>🔖</sub> <br>
           <a href="https://github.com/luc-gh/luc-gh" alt="luc-gh" target="_blank"><kbd>
             luc-gh
           </kbd></a>
           &nbsp
           <a href="https://github.com/luc-gh/libGDX_firstGame" alt="snake_js" target="_blank"><kbd>
             snake_js
+          </kbd></a>
+          &nbsp
+          <a href="https://github.com/luc-gh/math" alt="math" target="_blank"><kbd>
+            math
           </kbd></a>
           <br>
           <a href="https://github.com/luc-gh/majorElement" alt="majorElement" target="_blank"><kbd>
@@ -102,7 +106,7 @@
       </li>
       <li>
         <p>
-          Listas (Lists): :clipboard: <br>
+          Listas (Lists): <sub>:clipboard:</sub> <br>
           <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos"><kbd>
             Repositórios favoritos
           </kbd></a>
@@ -129,7 +133,7 @@
 
 <div align="center">
   <a href="https://github.com/luc-gh/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=814&langs_count=12" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
   </a>
   <br><br>
   <a href="https://github.com/luc-gh/">
