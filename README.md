@@ -124,6 +124,18 @@
           </kbd></a>
         </p>
       </li>
+      <li>
+        <p>
+          Gists: <sub>:memo:</sub> <br>
+          <a href="https://gist.github.com/luc-gh/a76049694a77a811c428405334ee2cbf"><kbd>
+            Calculadora L/D Mode
+          </kbd></a>
+          &nbsp
+          <a href="https://gist.github.com/luc-gh/1d9dfee9443500b48d12834465afb430"><kbd>
+            Primeiro App com Flutter
+          </kbd></a>
+        </p>
+      </li>
     </ul>
   </td>
 </tr>
