@@ -16,10 +16,10 @@
   <img align="center" title="libGDX" width="105" src="https://libgdx.com/assets/images/logo.png">
   </a>
   &nbsp
-  <a href="#">
+  <!--   <a href="#">
   <img align="center" title="Dart" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
-  <!--   <a href="#">
+  <a href="#">
   <img align="center" title="Flutter" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   </a>
   <a href="#">
