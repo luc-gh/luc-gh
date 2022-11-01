@@ -1,6 +1,7 @@
 <!-- Parágrafo de introdução -->
 <h1 align="center">
   <samp>Olá. Seja bem-vindo(a)!</samp>
+  <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
 </h1>
 
 <p align="center"> 
