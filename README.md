@@ -63,7 +63,7 @@
 
 <div align="center">
   <kbd align="center">
-    📘 <b> REPOSITÓRIOS EM DESTAQUE (FEATURED REPOS) </b> 📘
+    📖 <b> REPOSITÓRIOS EM DESTAQUE </b> 📕
     <br><br>
     <a href="https://github.com/luc-gh/luc-gh">
       <kbd>
@@ -93,7 +93,7 @@
     </a>
   </kbd>
   <kbd align="center">
-    📝 <b> LISTAS (LISTS) </b> 📝
+    📝 <b> LISTAS </b> 📝
     <br><br>
     <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos">
       <kbd>
