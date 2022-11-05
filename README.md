@@ -38,13 +38,8 @@
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-      <kbd>
-        <img src="https://img.shields.io/badge/contatolucasoficial0-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
-      </kbd>
-    </a>
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.lucas@arapiraca.ufal.br" alt="Gmail" target="_blank">
     <kbd>
-    <img src="https://img.shields.io/badge/arnaldo.lucas-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.arnaldo.lucas@arapiraca.ufal.br"/>
+      <img src="https://img.shields.io/badge/contatolucasoficial0-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
     </kbd>
   </a>
   <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank" alt="LinkedIn">
