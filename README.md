@@ -80,6 +80,11 @@
         math
       </kbd>
     </a>
+    <a href="https://github.com/luc-gh/java_basic">
+      <kbd>
+        java_basic
+      </kbd>
+    </a>
     <br><br>
     <a href="https://github.com/luc-gh/Tinkercad_projects">
       <kbd>
