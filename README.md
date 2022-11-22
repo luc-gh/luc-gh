@@ -6,10 +6,10 @@
 
 <div align="center"> 
   <p><b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b></p>
-  <a href="#">
+  <a href="https://github.com/topics/python">
   <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="#">
+  <a href="https://github.com/topics/java">
   <img align="center" title="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </a>
   &nbsp
@@ -17,19 +17,13 @@
   <img align="center" title="libGDX" width="105" src="https://libgdx.com/assets/images/logo.png">
   </a>
   &nbsp
-  <!--   <a href="#">
-  <img align="center" title="Dart" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  </a>
-  <a href="#">
-  <img align="center" title="Flutter" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  </a>
-  <a href="#">
-  <img align="center" title="MySQL" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>      -->
-  <a href="#">
+  <a href="https://github.com/topics/html">
   <img align="center" title="HTML" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a href="#">
+  <a href="https://github.com/topics/css">
+  <img align="center" title="CSS" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://github.com/topics/javascript">
   <img align="center" title="JS" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </a>
 </div>
