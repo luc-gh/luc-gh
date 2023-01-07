@@ -158,6 +158,3 @@
     <img width="412" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&dates=878787" />
   </a> 
 </div>
-<div align="center">
-  <img src="https://github.com/luc-gh/luc-gh/blob/output/github-contribution-grid-snake.svg" />
-</div>
