@@ -69,8 +69,8 @@
   <a href="https://gist.github.com/luc-gh">
     <img src="https://img.shields.io/badge/Gist-luc--gh-1E1E1E?logo=github&logoColor=FFF">
   </a>
-  <a href="https://codepen.io/luc-gh">
-    <img src="https://img.shields.io/badge/Codepen-luc--gh-333?logo=codepen&logoColor=FFF">
+  <a href="https://codepen.io/luc-pen">
+    <img src="https://img.shields.io/badge/Codepen-luc--pen-333?logo=codepen&logoColor=FFF">
   </a>
   <a href="https://www.frontendmentor.io/profile/luc-gh">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor&logoColor=cyan">
