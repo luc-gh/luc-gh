@@ -4,7 +4,7 @@
 </p>
 
 <h1>
-  <samp>Olá. Bem-vindo(a) ao meu perfil!</samp>
+  <samp>Olá, seja bem-vindo(a) ao meu perfil!</samp>
   <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
 </h1>
 
