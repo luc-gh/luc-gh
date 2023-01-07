@@ -1,160 +1,92 @@
-<!-- Parágrafo de introdução -->
-<h1 align="center">
-  <samp>Olá. Seja bem-vindo(a)!</samp>
+<p>
+  <a href="https://github.com/luc-gh/luc-gh"><img src="https://img.shields.io/badge/lang-en-darkblue.svg"/></a>
+  <a href=""><img src="https://img.shields.io/badge/lang-pt--br-darkgreen.svg"/></a>
+</p>
+
+<h1>
+  <samp>Hello. Welcome to my profile!</samp>
   <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
 </h1>
 
-<div align="center"> 
-  <p><b>Meu nome é Lucas. Aparentemente, adquiri gosto pela programação.</b></p>
-  <a href="https://github.com/topics/python">
-  <img align="center" title="Python" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://github.com/topics/java">
-  <img align="center" title="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </a>
-  &nbsp
-  <a href="https://libgdx.com/">
-  <img align="center" title="libGDX" width="105" src="https://libgdx.com/assets/images/logo.png">
-  </a>
-  &nbsp
-  <a href="https://github.com/topics/html">
-  <img align="center" title="HTML" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://github.com/topics/css">
-  <img align="center" title="CSS" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  <a href="https://github.com/topics/javascript">
-  <img align="center" title="JS" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </a>
+<div>
+
+  <h3>About me</h3>
+  <p>
+    <b>My name is Lucas. Apparently, I acquired a taste for programming.</b> <br>
+    Junior fullstack developer. Studying and working with Java, JS and Python. <br>
+    Coursing Computer Science at the Federal University of Alagoas. Technician in electronics by the Federal Institute of Alagoas.
+  </p>
+  
+  <h2></h2>
+  
+  <span> 
+    Technologies I'm using:
+  </span>
+  
+  <br>
+  
+  <sub><sub>
+    <a href="https://github.com/topics/python">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow">
+    </a>
+    <a href="https://github.com/topics/java">
+    <img src="https://img.shields.io/badge/Java-FD5B21?logo=java">
+    </a>
+    <a href="https://libgdx.com/">
+    <img src="https://img.shields.io/badge/lib-GDX-darkred.svg">
+    </a>
+    <a href="https://github.com/topics/html">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/css">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+    </a>
+    <a href="https://github.com/topics/javascript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    </a>
+  </sub></sub>
+  
 </div>
+
+<h2></h2>
+
+<span> 
+    Networks:
+</span>
 
 <br>
 
-<div align="center">
+<sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-    <kbd>
-      <img src="https://img.shields.io/badge/contatolucasoficial0-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.contatolucasoficial0@gmail.com"/>
-    </kbd>
+    <img src="https://img.shields.io/badge/Gmail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/" target="_blank" alt="LinkedIn">
-    <kbd>
-      <img src="https://img.shields.io/badge/Arnaldo%20Lucas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/arnaldo-lucas-sd/"/>
-    </kbd>
+  <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=11B8FA">
   </a>
-  <a href="https://www.instagram.com/luc.ig._/" alt="Instagram" target="_blank">
-    <kbd>
-      <img src="https://img.shields.io/badge/luc.ig.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/luc.ig._/"/>
-    </kbd>
+  <a href="https://www.instagram.com/luc.ig._/">
+    <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FD558B">
   </a>
   <a href="https://gist.github.com/luc-gh">
-    <kbd>
-      <img src="https://img.shields.io/badge/gist/luc–gh-010101?style=for-the-badge&logo=github&logoColor=white" />
-    </kbd>
+    <img src="https://img.shields.io/badge/Gist-luc--gh-1E1E1E?logo=github&logoColor=FFF">
   </a>
-</div>
+  <a href="https://codepen.io/luc-gh">
+    <img src="https://img.shields.io/badge/Codepen-luc--gh-333?logo=codepen&logoColor=FFF">
+  </a>
+  <a href="https://www.frontendmentor.io/profile/luc-gh">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor&logoColor=cyan">
+  </a>
+
+  <!--
+  <a href="">
+    <img src="">
+  </a>
+  -->
+
+</sub></sub>
 
 <br>
 
-<div align="center">
-  <kbd align="center">
-    📖 <b> REPOSITÓRIOS EM DESTAQUE </b> 📕
-    <br><br>
-    <a href="https://github.com/luc-gh/luc-gh">
-      <kbd>
-        luc-gh
-      </kbd>
-    </a>
-    <a href="https://github.com/luc-gh/js_basic">
-      <kbd>
-        js_basic
-      </kbd>
-    </a>
-    <a href="https://github.com/luc-gh/math">
-      <kbd>
-        math
-      </kbd>
-    </a>
-    <a href="https://github.com/luc-gh/java_basic">
-      <kbd>
-        java_basic
-      </kbd>
-    </a>
-    <br><br>
-    <a href="https://github.com/luc-gh/Tinkercad_projects">
-      <kbd>
-        Tinkercad_projects
-      </kbd>
-    </a>
-    <a href="https://github.com/luc-gh/libGDX_testGame">
-      <kbd>
-        libGDX_testGame
-      </kbd>
-    </a>
-  </kbd>
-  <kbd align="center">
-    📝 <b> LISTAS </b> 📝
-    <br><br>
-    <a href="https://github.com/stars/luc-gh/lists/reposit%C3%B3rios-favoritos">
-      <kbd>
-        Repositórios favoritos
-      </kbd>
-    </a>
-    <a href="https://github.com/stars/luc-gh/lists/estudo-sobre-o-framework-libgdx">
-      <kbd>
-        Estudo sobre  libGDX
-      </kbd>
-    </a>
-    <br><br>
-    <a href="https://github.com/stars/luc-gh/lists/estudo-b%C3%A1sico-de-linguagens">
-      <kbd>
-        Estudo básico de linguagens
-      </kbd>
-    </a>
-    <a href="https://github.com/stars/luc-gh/lists/outros">
-      <kbd>
-        Outros
-      </kbd>
-    </a>
-  </kbd>
-  <kbd align="center">
-    💻 <b> GISTS </b> 🐈‍⬛
-    <br><br>
-    <a href="https://gist.github.com/luc-gh/56818a0c8dd98c800286ef545f606f8a">
-      <kbd>
-        IMC em Java
-      </kbd>
-    </a>
-    <a href="https://gist.github.com/luc-gh/a76049694a77a811c428405334ee2cbf">
-      <kbd>
-        Calculadora L/D Mode
-      </kbd>
-    </a>
-    <br><br>
-    <a href="https://gist.github.com/luc-gh/54e48e14820628a61ac07fa76fc0f019">
-      <kbd>
-        APC-B - Tarefa 1
-      </kbd>
-    </a>
-    <a href="https://gist.github.com/luc-gh/d712cbb0368d5f3127f3aa2aeb682238">
-      <kbd>
-        APC-B - Tarefa 4
-      </kbd>
-    </a>
-  </kbd>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/luc-gh/">
-    <img align="center" width="835" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
-  </a>
-  <br><br>
-  <a href="https://github.com/luc-gh/">
-    <img width="412" src="https://github-readme-stats.vercel.app/api?username=luc-gh&show_icons=true&bg_color=030303&locale=pt-br&icon_color=00FFFF&title_color=FF2800&text_color=FFFFFF" />
-  </a>
-  &nbsp
-  <a href="https://github.com/luc-gh/">
-    <img width="412" src="https://github-readme-streak-stats.herokuapp.com/?user=luc-gh&locale=pt-br&background=010101&fire=EF0101&stroke=111111&ring=F00000&currStreakNum=88FFFF&sideNums=00FFFF&currStreakLabel=FFFFFF&sideLabels=EAEAEA&dates=878787" />
-  </a> 
-</div>
+<a href="https://github.com/luc-gh/">
+  <img align="center" width="835" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=en&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
+</a>
+  
