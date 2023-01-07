@@ -1,6 +1,6 @@
 <p>
-  <a href="https://github.com/luc-gh/luc-gh"><img src="https://img.shields.io/badge/language-en-darkblue.svg"/></a>
-  <a href="https://github.com/luc-gh/luc-gh/blob/main/README-pt-br.md"><img src="https://img.shields.io/badge/idioma-pt--br-darkgreen.svg"/></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/language-en-darkblue.svg"/></a>
+  <a href="README-pt-br.md"><img src="https://img.shields.io/badge/idioma-pt--br-darkgreen.svg"/></a>
 </p>
 
 <h1>
