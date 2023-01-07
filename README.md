@@ -4,7 +4,7 @@
 </p>
 
 <h1>
-  <samp>Hello, Welcome to my profile!</samp>
+  <samp>Hello, welcome to my profile!</samp>
   <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
 </h1>
 
