@@ -88,5 +88,5 @@
 <br>
 
 <a href="https://github.com/luc-gh/">
-  <img align="center" width="835" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=pt-br&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
+  <img align="center" width="835" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=es&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
 </a>
