@@ -23,7 +23,7 @@
   <h2></h2>
   
   <span> 
-    Von mir verwendete Technologien::
+    Von mir verwendete Technologien:
   </span>
   
   <br>
