@@ -82,11 +82,9 @@
 </sub></sub>
 
 <h2></h2>
-<span><b>
+<h3><b>
     Stats:
-</b></span>
-<br>
-<br>
+</b></h3>
 <a href="https://github.com/luc-gh/">
   <img align="center" width="835" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc-gh&theme=github_dark" />
 </a>
