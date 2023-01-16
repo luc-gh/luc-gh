@@ -21,12 +21,10 @@
   
   <h2></h2>
   
-  <span> 
+  <span><b>
     Technologies I'm using:
-  </span>
-  
+  </b></span>
   <br>
-  
   <sub><sub>
     <a href="https://github.com/topics/python">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow">
@@ -52,12 +50,9 @@
 
 <h2></h2>
 
-<span> 
+<span><b> 
     Networks:
-</span>
-
-<br>
-
+</b></span> <br>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
@@ -86,9 +81,20 @@
 
 </sub></sub>
 
+<h2></h2>
+<span><b>
+    Stats:
+</b></span>
 <br>
-
+<br>
 <a href="https://github.com/luc-gh/">
-  <img align="center" width="835" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&bg_color=010101&locale=en&text_color=FFFFFF&title_color=FCFCFC&card_width=813&langs_count=12" />
+  <img align="center" width="835" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc-gh&theme=github_dark" />
+</a>
+<br>
+<a href="https://github.com/luc-gh/">
+  <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc-gh&theme=github_dark" />
+</a>
+<a href="https://github.com/luc-gh/">
+  <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc-gh&theme=github_dark" />
 </a>
   
