@@ -12,7 +12,7 @@
 
 <div>
 
-  <h3>Über mich:</h3>
+  <h4>Über mich</h4>
   <p>
     Ich bin Lukas. Anscheinend bin ich auf den Geschmack des Programmierens gekommen.<br>
     Studieren und Arbeiten mit Java, JS und Python. <br>
