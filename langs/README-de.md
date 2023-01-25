@@ -14,17 +14,17 @@
 
   <h3>Über mich:</h3>
   <p>
-    <b>Ich bin Lukas. Anscheinend bin ich auf den Geschmack des Programmierens gekommen.</b> <br>
-    Junior-Fullstack-Entwickler. Studieren und Arbeiten mit Java, JS und Python. <br>
+    Ich bin Lukas. Anscheinend bin ich auf den Geschmack des Programmierens gekommen.<br>
+    Studieren und Arbeiten mit Java, JS und Python. <br>
     Universitätsstudent, der Informatik an der Federal University of Alagoas studiert. <br> 
     Elektroniker vom Federal Institute of Alagoas.
   </p>
   
   <h2></h2>
   
-  <span><b>
+  <span>
     Von mir verwendete Technologien:
-  </b></span>
+  </span>
   <br>
   <sub><sub>
     <a href="https://github.com/topics/python">
@@ -51,9 +51,9 @@
 
 <h2></h2>
 
-<span><b>
+<span>
     Netzwerke:
-</b></span>
+</span>
 <br>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
@@ -83,7 +83,7 @@
 
 </sub></sub>
 
-
+<!--
 <h2></h2>
 <h3><b>
     Statistiken:
@@ -101,3 +101,4 @@
   
 
   
+-->
