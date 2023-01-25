@@ -12,18 +12,18 @@
 
 <div>
 
-  <h3>Sobre mi</h3>
+  <h4>Sobre mi</h4>
   <p>
-    <b>Mi nombre es Lucas. Al parecer, tengo un gusto por la informática.</b> <br>
-    Soy un Junior Fullstack Dev. Estoy estudiando y trabajando con Java, JS y Python. <br>
+    Mi nombre es Lucas. Al parecer, tengo un gusto por la informática. <br>
+    Estoy estudiando y trabajando con Java, JS y Python. <br>
     Estoy estudiando informática en la Universidad Federal de Alagoas e soy técnico en electrónica por el Instituto Federal de Alagoas.
   </p>
   
   <h2></h2>
   
-  <span><b>
+  <span>
     Tecnologías que uso:
-  </b></span>
+  </span>
   <br>
   <sub><sub>
     <a href="https://github.com/topics/python">
@@ -50,9 +50,9 @@
 
 <h2></h2>
 
-<span><b> 
+<span>
     Redes:
-</b></span>
+</span>
 <br>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
@@ -79,7 +79,7 @@
     <img src="">
   </a>
   -->
-
+<!--
 </sub></sub>
 
 <h2></h2>
@@ -96,4 +96,4 @@
 <a href="https://github.com/luc-gh/">
   <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc-gh&theme=github_dark" />
 </a>
-  
+ -->
