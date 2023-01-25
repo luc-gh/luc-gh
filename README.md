@@ -12,18 +12,18 @@
 
 <div>
 
-  <h3>About me</h3>
+  <h4>About me</h4>
   <p>
-    <b>My name is Lucas. Apparently, I acquired a taste for programming.</b> <br>
+    My name is Lucas. Apparently, I acquired a taste for programming.<br>
     Junior fullstack developer. Studying and working with Java, JS and Python. <br>
     Coursing Computer Science at the Federal University of Alagoas. Technician in electronics by the Federal Institute of Alagoas.
   </p>
   
   <h2></h2>
   
-  <span><b>
+  <span>
     Technologies I'm using:
-  </b></span>
+  </span>
   <br>
   <sub><sub>
     <a href="https://github.com/topics/python">
@@ -50,9 +50,9 @@
 
 <h2></h2>
 
-<span><b> 
+<span> 
     Networks:
-</b></span> <br>
+</span> <br>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
@@ -81,6 +81,7 @@
 
 </sub></sub>
 
+<!--
 <h2></h2>
 <h3><b>
     Stats:
@@ -95,4 +96,5 @@
 <a href="https://github.com/luc-gh/">
   <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc-gh&theme=github_dark" />
 </a>
-  
+
+-->
