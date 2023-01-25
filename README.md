@@ -15,7 +15,7 @@
   <h4>About me</h4>
   <p>
     My name is Lucas. Apparently, I acquired a taste for programming.<br>
-    Junior fullstack developer. Studying and working with Java, JS and Python. <br>
+    I'm studying and working with Java, JS and Python. <br>
     Coursing Computer Science at the Federal University of Alagoas. Technician in electronics by the Federal Institute of Alagoas.
   </p>
   
