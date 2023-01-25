@@ -1,8 +1,8 @@
 <p>
   <a href="README-de.md"><img src="https://img.shields.io/badge/sprache-de-141414.svg"/></a>
-  <a href="README.md"><img src="https://img.shields.io/badge/language-en-darkblue.svg"/></a>
-  <a href="langs/README-pt-br.md"><img src="https://img.shields.io/badge/idioma-pt--br-darkgreen.svg"/></a>
-  <a href="langs/README-es.md"><img src="https://img.shields.io/badge/lenguaje-es-darkred.svg"/></a>
+  <a href="../README.md"><img src="https://img.shields.io/badge/language-en-darkblue.svg"/></a>
+  <a href="README-pt-br.md"><img src="https://img.shields.io/badge/idioma-pt--br-darkgreen.svg"/></a>
+  <a href="README-es.md"><img src="https://img.shields.io/badge/lenguaje-es-darkred.svg"/></a>
 </p>
 
 <h1>
