@@ -76,7 +76,7 @@
 <br>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=111&border_color=444&card_width=800&text_color=878787&title_color=CACACA"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=111&border_color=444&card_width=830&text_color=878787&title_color=CACACA"/>
 </div>
   <!--
   <a href="">
