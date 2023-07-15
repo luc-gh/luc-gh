@@ -1,10 +1,3 @@
-<p>
-  <a href="README.md"><img src="https://img.shields.io/badge/language-en-darkblue.svg"/></a>
-  <a href="langs/README-pt-br.md"><img src="https://img.shields.io/badge/idioma-pt--br-darkgreen.svg"/></a>
-  <a href="langs/README-es.md"><img src="https://img.shields.io/badge/lenguaje-es-darkred.svg"/></a>
-  <a href="langs/README-de.md"><img src="https://img.shields.io/badge/sprache-de-141414.svg"/></a>
-</p>
-
 <h1>
   <samp>Hello, welcome to my profile!</samp>
   <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
@@ -15,7 +8,7 @@
   <h4>About me</h4>
   <p>
     My name is Lucas. Apparently, I acquired a taste for programming.<br>
-    I'm studying and working with Java, JS and Python. <br>
+    I'm studying and working with Java and Python. <br>
     Coursing Computer Science at the Federal University of Alagoas. Technician in electronics by the Federal Institute of Alagoas.
   </p>
   
@@ -27,22 +20,25 @@
   <br>
   <sub><sub>
     <a href="https://github.com/topics/python">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
     </a>
     <a href="https://github.com/topics/java">
-    <img src="https://img.shields.io/badge/Java-FD5B21?logo=java">
+    <img src="https://img.shields.io/badge/Java-AA0000?style=for-the-badge&logo=openjdk&logoColor=white">
     </a>
-    <a href="https://libgdx.com/">
-    <img src="https://img.shields.io/badge/lib-GDX-darkred.svg">
+    <a href="https://github.com/topics/cpp">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </a>
     <a href="https://github.com/topics/html">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-A33F16?style=for-the-badge&logo=html5&logoColor=white">
     </a>
     <a href="https://github.com/topics/css">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </a>
     <a href="https://github.com/topics/javascript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    </a>
+    <a href="https://github.com/topics/kotlin">
+    <img src="https://img.shields.io/badge/Kotlin-721291?&style=for-the-badge&logo=kotlin&logoColor=2198E8">
     </a>
   </sub></sub>
   
@@ -55,22 +51,24 @@
 </span> <br>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
+    <img src="https://img.shields.io/badge/Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=11B8FA">
+    <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=53DAFC">
   </a>
   <a href="https://www.instagram.com/luc.ig._/">
-    <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FD558B">
+    <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FF98CB">
   </a>
-  <a href="https://gist.github.com/luc-gh">
-    <img src="https://img.shields.io/badge/Gist-luc--gh-1E1E1E?logo=github&logoColor=FFF">
+  <a href="https://leetcode.com/luc-gh/">
+    <img src="https://img.shields.io/badge/LeetCode-luc--gh-1E1E1E?logo=leetcode">
   </a>
+  <!--
   <a href="https://codepen.io/luc-pen">
     <img src="https://img.shields.io/badge/Codepen-luc--pen-333?logo=codepen&logoColor=FFF">
   </a>
+  -->
   <a href="https://www.frontendmentor.io/profile/luc-gh">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor&logoColor=cyan">
+    <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor">
   </a>
 <br>
 <br>
