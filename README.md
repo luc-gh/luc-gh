@@ -40,6 +40,9 @@
     <a href="https://github.com/topics/kotlin">
     <img src="https://img.shields.io/badge/Kotlin-721291?&style=for-the-badge&logo=kotlin&logoColor=2198E8">
     </a>
+    <a href="https://github.com/surrealdb/surrealdb">
+      <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white">
+    </a>
   </sub></sub>
   
 </div>
