@@ -25,9 +25,9 @@
     <a href="https://github.com/topics/java">
     <img src="https://img.shields.io/badge/Java-AA0000?style=for-the-badge&logo=openjdk&logoColor=white">
     </a>
-    <a href="https://github.com/topics/cpp">
+    <!--<a href="https://github.com/topics/cpp">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    </a>
+    </a>-->
     <a href="https://github.com/topics/html">
     <img src="https://img.shields.io/badge/HTML5-A33F16?style=for-the-badge&logo=html5&logoColor=white">
     </a>
