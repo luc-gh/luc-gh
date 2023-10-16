@@ -35,13 +35,13 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </a>
     <a href="https://github.com/topics/javascript">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=121310">
     </a>
     <a href="https://github.com/topics/kotlin">
     <img src="https://img.shields.io/badge/Kotlin-721291?&style=for-the-badge&logo=kotlin&logoColor=2198E8">
     </a>
     <a href="https://github.com/topics/spring">
-    <img src="https://img.shields.io/badge/Spring-5B9E48?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
     </a>
     <a href="https://github.com/surrealdb/surrealdb">
       <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white">
