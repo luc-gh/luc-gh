@@ -6,18 +6,17 @@
 <div>
 
   <h4>About me</h4>
-  <p>
-    My name is Lucas. Apparently, I acquired a taste for programming.<br>
-    I'm studying and working with Java and Python. <br>
-    Coursing Computer Science at the Federal University of Alagoas. Technician in electronics by the Federal Institute of Alagoas.
-  </p>
+  I'm a guy coursing Computer Science at the Federal University of Alagoas, Brazil.
+  <br>
+  <br>
+  
+  <code><b>private Feeling happiness = Life.fightForFeeling(Feelings.HAPPINESS);</b></code>
   
   <h2></h2>
   
-  <span>
+  <h4>
     Technologies I'm using:
-  </span>
-  <br>
+  </h4>
   <sub><sub>
     <a href="https://github.com/topics/python">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
@@ -52,9 +51,9 @@
 
 <h2></h2>
 
-<span> 
+<h4> 
     Networks:
-</span> <br>
+</h4>
 <sub><sub>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
@@ -66,7 +65,7 @@
     <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FF98CB">
   </a>
   <a href="https://leetcode.com/luc-gh/">
-    <img src="https://img.shields.io/badge/LeetCode-luc--gh-1E1E1E?logo=leetcode">
+    <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
   </a>
   <!--
   <a href="https://codepen.io/luc-pen">
