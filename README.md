@@ -1,6 +1,5 @@
 <h1>
   <samp>Hello, welcome to my profile!</samp>
-  <!-- <kbd><img src="https://profile-counter.glitch.me/luc-gh/count.svg" /></kbd> -->
 </h1>
 
 <div>
@@ -67,11 +66,9 @@
   <a href="https://leetcode.com/luc-gh/">
     <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
   </a>
-  <!--
   <a href="https://codepen.io/luc-pen">
-    <img src="https://img.shields.io/badge/Codepen-luc--pen-333?logo=codepen&logoColor=FFF">
+    <img src="https://img.shields.io/badge/Vercel-luc--gh-000?logo=vercel&logoColor=000">
   </a>
-  -->
   <a href="https://www.frontendmentor.io/profile/luc-gh">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor">
   </a>
@@ -81,28 +78,4 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=830&text_color=979797&title_color=CACACA"/>
 </div>
-  <!--
-  <a href="">
-    <img src="">
-  </a>
-  -->
-
-</sub></sub>
-
-<!--
-<h2></h2>
-<h3><b>
-    Stats:
-</b></h3>
-<a href="https://github.com/luc-gh/">
-  <img align="center" width="835" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luc-gh&theme=github_dark" />
-</a>
-<br>
-<a href="https://github.com/luc-gh/">
-  <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luc-gh&theme=github_dark" />
-</a>
-<a href="https://github.com/luc-gh/">
-  <img align="center" width="411" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luc-gh&theme=github_dark" />
-</a>
-
--->
+  
