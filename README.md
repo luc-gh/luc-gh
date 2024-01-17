@@ -35,14 +35,26 @@
     <a href="https://github.com/topics/javascript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=121310">
     </a>
-    <a href="https://github.com/topics/kotlin">
-    <img src="https://img.shields.io/badge/Kotlin-721291?&style=for-the-badge&logo=kotlin&logoColor=2198E8">
+    <a href="https://github.com/nodejs/node">
+    <img src="https://img.shields.io/badge/Node.js-3C873A?&style=for-the-badge&logo=node.js&logoColor=FFFFFF">
+    </a>
+    <a href="https://github.com/topics/react">
+    <img src="https://img.shields.io/badge/React.js-61DBFB?&style=for-the-badge&logo=react&logoColor=000000">
+    </a>
+    <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=FFFFFF">
     </a>
     <a href="https://github.com/topics/spring">
     <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
     </a>
+    <a href="https://github.com/mongodb/mongo">
+      <img src="https://img.shields.io/badge/SurrealDB-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64">
+    </a>
+    <a href="https://github.com/postgres/postgres">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=53DBF9">
+    </a>
     <a href="https://github.com/surrealdb/surrealdb">
-      <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white">
+      <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=FFFFFF">
     </a>
   </sub></sub>
   
