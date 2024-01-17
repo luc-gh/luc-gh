@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
     </a>
     <a href="https://github.com/mongodb/mongo">
-      <img src="https://img.shields.io/badge/SurrealDB-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64">
+      <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64">
     </a>
     <a href="https://github.com/postgres/postgres">
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=53DBF9">
