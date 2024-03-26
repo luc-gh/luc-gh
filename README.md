@@ -26,6 +26,9 @@
     <!--<a href="https://github.com/topics/cpp">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </a>-->
+    <a href="https://github.com/topics/spring">
+    <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
+    </a>
     <a href="https://github.com/topics/html">
     <img src="https://img.shields.io/badge/HTML5-A33F16?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -44,8 +47,8 @@
     <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=next.js&logoColor=FFFFFF">
     </a>
-    <a href="https://github.com/topics/spring">
-    <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
+    <a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">
+      <img src="https://img.shields.io/badge/Markdown-0A0A0A?style=for-the-badge&logo=markdown&logoColor=EFEFEF">
     </a>
     <a href="https://github.com/mongodb/mongo">
       <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64">
@@ -53,8 +56,20 @@
     <a href="https://github.com/postgres/postgres">
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=53DBF9">
     </a>
-    <a href="https://github.com/surrealdb/surrealdb">
-      <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=FFFFFF">
+    <a href="https://render.com/">
+      <img src="https://img.shields.io/badge/Render-080808?style=for-the-badge&logo=render&logoColor=EEEEEE">
+    </a>
+    <a href="https://vercel.com/">
+      <img src="https://img.shields.io/badge/Vercel-020202?style=for-the-badge&logo=vercel&logoColor=EFEFEF">
+    </a>
+    <a href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/Prisma-3F15F1?&style=for-the-badge&logo=prisma&logoColor=000000">
+    </a>
+    <a href="https://www.atlassian.com/software/jira">
+    <img src="https://img.shields.io/badge/Jira%20Software-2005EF?&style=for-the-badge&logo=jira&logoColor=FFFFFF">
+    </a>
+    <a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Trello-03A104?&style=for-the-badge&logo=trello&logoColor=FFFFFF">
     </a>
   </sub></sub>
   
