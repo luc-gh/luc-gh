@@ -6,13 +6,13 @@
 
 <div align="center">
 
-  <h4>About me</h4>
+  <h3>About me</h3>
   Coursing Computer Science at the Federal University of Alagoas, Brazil.
   <br>
   
-  <h4>
+  <h3>
     Technologies I'm using:
-  </h4>
+  </h3>
   <sub><sub>
     <a href="https://github.com/topics/python">
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
@@ -68,23 +68,29 @@
     <a href="https://trello.com/">
     <img src="https://img.shields.io/badge/Trello-03A104?&style=for-the-badge&logo=trello&logoColor=FFFFFF">
     </a>
+    <a href="https://trello.com/">
+    <img src="https://img.shields.io/badge/Redis-B00?&style=for-the-badge&logo=redis&logoColor=FFF">
+    </a>
   </sub></sub>
 </div>
 
 
-<h4 align="center"> 
+<h3 align="center"> 
     Networks:
-</h4>
+</h3>
 <div align="center">
   <sub><sub>
     <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-      <img src="https://img.shields.io/badge/Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
+      <img src="https://img.shields.io/badge/Personal%20Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=arnaldo.lucas@arapiraca.ufal.br" alt="Gmail" target="_blank">
+      <img src="https://img.shields.io/badge/Institutional%20Mail-Arnaldo%20Lucas-E73131?logoColor=white&logo=gmail">
     </a>
     <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
       <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=53DAFC">
     </a>
-    <a href="https://www.instagram.com/luc.ig._/">
-      <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FF98CB">
+    <a href="https://lattes.cnpq.br/1162257939625873">
+      <img src="https://img.shields.io/badge/Plataforma%20Lattes-A. Lucas-022188?logo=Lattes&logoColor=FF98CB">
     </a>
     <a href="https://leetcode.com/luc-gh/">
       <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
