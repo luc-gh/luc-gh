@@ -1,17 +1,14 @@
-<h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05CCDC&height=120&section=header"/>
+
+<h1 align="center">
   <samp>Hello, welcome to my profile!</samp>
 </h1>
 
-<div>
+<div align="center">
 
   <h4>About me</h4>
-  I'm a guy coursing Computer Science at the Federal University of Alagoas, Brazil.
+  Coursing Computer Science at the Federal University of Alagoas, Brazil.
   <br>
-  <br>
-  
-  <code><b>private Feeling happiness = Life.fightForFeeling(Feelings.HAPPINESS);</b></code>
-  
-  <h2></h2>
   
   <h4>
     Technologies I'm using:
@@ -23,9 +20,9 @@
     <a href="https://github.com/topics/java">
     <img src="https://img.shields.io/badge/Java-AA0000?style=for-the-badge&logo=openjdk&logoColor=white">
     </a>
-    <!--<a href="https://github.com/topics/cpp">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    </a>-->
+    <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-800080?style=for-the-badge&logo=kotlin&logoColor=fff">
+    </a>
     <a href="https://github.com/topics/spring">
     <img src="https://img.shields.io/badge/Spring-257815?&style=for-the-badge&logo=spring&logoColor=FFFFFF">
     </a>
@@ -72,37 +69,41 @@
     <img src="https://img.shields.io/badge/Trello-03A104?&style=for-the-badge&logo=trello&logoColor=FFFFFF">
     </a>
   </sub></sub>
-  
 </div>
 
-<h2></h2>
 
-<h4> 
+<h4 align="center"> 
     Networks:
 </h4>
-<sub><sub>
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=53DAFC">
-  </a>
-  <a href="https://www.instagram.com/luc.ig._/">
-    <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FF98CB">
-  </a>
-  <a href="https://leetcode.com/luc-gh/">
-    <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
-  </a>
-  <a href="https://codepen.io/luc-pen">
-    <img src="https://img.shields.io/badge/Vercel-luc--gh-000?logo=vercel&logoColor=000">
-  </a>
-  <a href="https://www.frontendmentor.io/profile/luc-gh">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-luc--gh-DDD?logo=frontendmentor">
-  </a>
-<br>
+<div align="center">
+  <sub><sub>
+    <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
+      <img src="https://img.shields.io/badge/Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/arnaldo-lucas-sd/">
+      <img src="https://img.shields.io/badge/LinkedIn-Arnaldo%20Lucas-0e76a8?logo=Linkedin&logoColor=53DAFC">
+    </a>
+    <a href="https://www.instagram.com/luc.ig._/">
+      <img src="https://img.shields.io/badge/Instagram-luc.ig.__-E4405F?logo=instagram&logoColor=FF98CB">
+    </a>
+    <a href="https://leetcode.com/luc-gh/">
+      <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
+    </a>
+    <a href="https://codepen.io/luc-pen">
+      <img src="https://img.shields.io/badge/Vercel-luc--gh-000?logo=vercel&logoColor=000">
+    </a>
+  </sub></sub>
+</div>
+
 <br>
   
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=830&text_color=979797&title_color=CACACA"/>
 </div>
-  
+
+<div align="center">
+<h4 align="centre"><b>Visitors Count</b></h4>  
+<img align="center" src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF2211&height=140&section=footer"/>
