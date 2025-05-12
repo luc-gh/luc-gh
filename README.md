@@ -101,7 +101,7 @@
 
 <h3>Experiência</h3>
 
-[<img align="left" justify="center" width="94px" alt="GEDAI" src="./assets/gedai-logo.jpg"/>](https://sites.google.com/view/gedai-ufal/in%C3%ADcio)
+[<img align="left" justify="center" width="94px" alt="GEDAI" src="./assets/logo.jpg"/>](https://sites.google.com/view/gedai-ufal/in%C3%ADcio)
 
 **Cientista de dados** \
 [**Group of Engineering in Decision-Making and Artificial Intelligence - GEDAI.UFAL**](https://sites.google.com/view/gedai-ufal/in%C3%ADcio) • Horário flexível | Remoto \
