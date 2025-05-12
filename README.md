@@ -93,9 +93,6 @@
     <a href="https://lattes.cnpq.br/1162257939625873">
       <img src="https://img.shields.io/badge/Plataforma%20Lattes-A. Lucas-022188?logo=Lattes&logoColor=FF98CB">
     </a>
-    <a href="https://leetcode.com/luc-gh/">
-      <img src="https://img.shields.io/badge/LeetCode-luc--gh-E57010?logo=leetcode">
-    </a>
     <a href="https://codepen.io/luc-pen">
       <img src="https://img.shields.io/badge/Vercel-luc--gh-000?logo=vercel&logoColor=000">
     </a>
