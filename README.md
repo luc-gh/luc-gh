@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05CCDC&height=120&section=header"/>
 
-<h1 align="center">
+<h1 align="left">
   <samp>Hello, welcome to my profile!</samp>
 </h1>
 
-<div align="center">
+
+<div align="left">
 
   <h3>About me</h3>
   Coursing Computer Science at the Federal University of Alagoas, Brazil.
@@ -75,10 +76,10 @@
 </div>
 
 
-<h3 align="center"> 
+<h3 align="left"> 
     Networks:
 </h3>
-<div align="center">
+<div align="left">
   <sub><sub>
     <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=contatolucasoficial0@gmail.com" alt="Gmail" target="_blank">
       <img src="https://img.shields.io/badge/Personal%20Mail-Lucas%20Duarte-F74141?logoColor=white&logo=gmail">
@@ -103,13 +104,13 @@
 
 <br>
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=830&text_color=979797&title_color=CACACA"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=1000&text_color=979797&title_color=CACACA"/>
 </div>
 
-<div align="center">
-<h4 align="centre"><b>Visitors Count</b></h4>  
-<img align="center" src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
+<div align="left">
+  <p align="left" font-size="10px" align-items="center"><h4>Visitors Count:</h4>
+  <img src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF2211&height=140&section=footer"/>
