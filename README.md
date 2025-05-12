@@ -1,18 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05CCDC&height=120&section=header"/>
 
 <h1 align="left">
-  <samp>Hello, welcome to my profile!</samp>
+  <samp>Olá, bem vindo ao meu perfil!</samp>
 </h1>
 
 
 <div align="left">
 
-  <h3>About me</h3>
-  Coursing Computer Science at the Federal University of Alagoas, Brazil.
+  <h3></h3>
+  Discente da faculdade em Ciência da Computação na Universidade Federal de Alagoas, Brasil.
   <br>
   
   <h3>
-    Technologies I'm using:
+    Tecnologias que utilizo:
   </h3>
   <sub><sub>
     <a href="https://github.com/topics/python">
@@ -77,7 +77,7 @@
 
 
 <h3 align="left"> 
-    Networks:
+    Redes:
 </h3>
 <div align="left">
   <sub><sub>
@@ -102,14 +102,31 @@
   </sub></sub>
 </div>
 
-<br>
+<h3>Experiência</h3>
+
+[<img align="left" justify="center" width="94px" alt="GEDAI" src="./assets/gedai-logo.png"/>](https://sites.google.com/view/gedai-ufal/in%C3%ADcio)
+
+**Cientista de dados** \
+[**Group of Engineering in Decision-Making and Artificial Intelligence - GEDAI.UFAL**](https://sites.google.com/view/gedai-ufal/in%C3%ADcio) • Horário flexível | Remoto \
+Linguagens & Tecnologias: `Python`, `Matplotlib`, `Selenium`, `Pandas`, `JavaScript`, `Puppeteer`\
+Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Segurança Pública no Estado de Alagoas)](https://sites.google.com/view/gedai-ufal/projetos/pesquisa?authuser=0#h.2l5qmrp39v6k)
+<br/>
+
+[<img align="left" width="94px" alt="UFAL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bras%C3%A3o_Ufal.png/1200px-Bras%C3%A3o_Ufal.png"/>](https://ufal.br/)
+
+**Backend & Java Developer** \
+[**Universidade Federal de Alagoas**](https://ufal.br/) • Vespertino | Presencial \
+Linguagens & Tecnologias: `Java`, `Spring`
+<br/>
+<br/>
+<br/>
   
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=1000&text_color=979797&title_color=CACACA"/>
 </div>
 
 <div align="left">
-  <p align="left" font-size="10px" align-items="center"><h4>Visitors Count:</h4>
+  <p align="left" font-size="10px" align-items="center"><h4>Contagem de visitantes:</h4>
   <img src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
 </div>
 
