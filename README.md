@@ -10,9 +10,11 @@
   <h3></h3>
   Discente da faculdade em Ciência da Computação na Universidade Federal de Alagoas, Brasil.
   <br>
+
+  <br/>
   
   <h3>
-    Tecnologias que utilizo:
+    Tecnologias que utilizo
   </h3>
   <sub><sub>
     <a href="https://github.com/topics/python">
@@ -69,15 +71,16 @@
     <a href="https://trello.com/">
     <img src="https://img.shields.io/badge/Trello-03A104?&style=for-the-badge&logo=trello&logoColor=FFFFFF">
     </a>
-    <a href="https://trello.com/">
+    <a href="https://github.com/redis/redis">
     <img src="https://img.shields.io/badge/Redis-B00?&style=for-the-badge&logo=redis&logoColor=FFF">
     </a>
   </sub></sub>
 </div>
 
+<br/>
 
 <h3 align="left"> 
-    Redes:
+    Redes
 </h3>
 <div align="left">
   <sub><sub>
@@ -99,6 +102,8 @@
   </sub></sub>
 </div>
 
+<br/>
+
 <h3>Experiência</h3>
 
 [<img align="left" justify="center" width="94px" alt="GEDAI" src="./assets/logo.jpg"/>](https://sites.google.com/view/gedai-ufal/in%C3%ADcio)
@@ -114,8 +119,20 @@ Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Seguran�
 **Backend & Java Developer** \
 [**Universidade Federal de Alagoas**](https://ufal.br/) • Vespertino | Presencial \
 Linguagens & Tecnologias: `Java`, `Spring`
-<br/>
-<br/>
+
+<div>
+  <br/>
+  <h3>Produções</h3>
+
+  <a href="https://www.researchgate.net/publication/354666364_CoAP_HTTP_e_MQTT_Um_Estudo_de_Medicao_Comparativa_na_Comunicacao_Agricola"><kbd>Artigo de Conferência 🔗</kbd></a> <br/> 
+  **CoAP, HTTP e MQTT: Um Estudo de Medição Comparativa na Comunicação Agrícola** — ENCOM 2021: XI Conferência Nacional em Comunicações, Redes e Segurança da Informação (2021)
+  <br/>
+  
+  <a href="https://doi.org/10.3390/engproc2025087057"><kbd>Artigo em anais de congressos 🔗</kbd></a> <br/> 
+  **Data Protection in Brazil: Applying Text Mining in Court Documents** — 5th International Electronic Conference on Applied Sciences (2025)
+  
+</div>
+
 <br/>
   
 <div align="left">
