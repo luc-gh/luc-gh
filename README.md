@@ -53,6 +53,9 @@
     <a href="https://github.com/mongodb/mongo">
       <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64">
     </a>
+    <a href="https://github.com/topics/mysql">
+      <img src="https://img.shields.io/badge/MySQL-F29110?style=for-the-badge&logo=mysql&logoColor=000">
+    </a>
     <a href="https://github.com/postgres/postgres">
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=53DBF9">
     </a>
@@ -116,9 +119,17 @@ Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Seguran�
 
 [<img align="left" width="94px" alt="UFAL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bras%C3%A3o_Ufal.png/1200px-Bras%C3%A3o_Ufal.png"/>](https://ufal.br/)
 
-**Backend & Java Developer** \
+**Desevolvedor Backend & Java** \
 [**Universidade Federal de Alagoas**](https://ufal.br/) • Vespertino | Presencial \
 Linguagens & Tecnologias: `Java`, `Spring`
+<br/>
+<br/>
+
+[<img align="left" width="94px" alt="ReeluNet" src="https://www.reelu.com.br/wp-content/uploads/2021/05/logo_nova.png"/>](https://www.reelu.com.br/)
+
+**Estagiário em desevolvimento Web e de Software** \
+[**Reelu Net**](https://www.reelu.com.br/) • Matutino | Híbrido \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `MySQL`
 
 <div>
   <br/>
@@ -138,10 +149,10 @@ Linguagens & Tecnologias: `Java`, `Spring`
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=1000&text_color=979797&title_color=CACACA"/>
 </div>
-
+<!--
 <div align="left">
   <p align="left" font-size="10px" align-items="center"><h4>Contagem de visitantes:</h4>
   <img src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
 </div>
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF2211&height=140&section=footer"/>
