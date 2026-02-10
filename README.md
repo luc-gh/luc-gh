@@ -161,10 +161,10 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `MySQL`
 
 <h3>Projetos</h3>
 
-[<img align="left" justify="center" alt="GEDAI" src="https://img.shields.io/badge/Node%20|%20React-Chat%20com%20WebSockets-222222?style=for-the-badge"/>](chat-client-ruddy-tau.vercel.app)
+[<img align="left" justify="center" alt="GEDAI" src="https://img.shields.io/badge/Node%20|%20React-Chat%20com%20WebSockets-222222?style=for-the-badge"/>](https://chat-client-ruddy-tau.vercel.app/)
 **Projeto pessoal** &nbsp;&nbsp; <kbd>2026</kbd>
 
-[<img align="left" justify="center" alt="GEDAI" src="https://img.shields.io/badge/HTML%20|%20CSS%20|%20JS-OTP-214234?style=for-the-badge"/>](otp-luc.vercel.app/)
+[<img align="left" justify="center" alt="GEDAI" src="https://img.shields.io/badge/HTML%20|%20CSS%20|%20JS-OTP-214234?style=for-the-badge"/>](https://otp-luc.vercel.app/)
 **Projeto pessoal** &nbsp;&nbsp; <kbd>2023</kbd>
 
 <br/>
