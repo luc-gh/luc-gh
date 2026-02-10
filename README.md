@@ -144,12 +144,27 @@ Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `MySQL`
   
 </div>
 
-<br/>
+<div>
+  <br/>
+  <h3>Inovação e desenvolvimento</h3>
+
+  <kbd>Registro de Software <b>[INPI]</b></kbd> <br/> 
+  **Pulse Security - Dashboard do Módulo de Visão Computacional (Versão 1)** —  Programa de Computador. Número do registro: <code>BR512026000656-2</code>. Ligado ao projeto IA².
+  <br/>
   
+  <kbd>Registro de Software <b>[INPI]</b></kbd> <br/> 
+  **Pulse Security - Dashboard do Módulo de Mineração da Web Social (Versão 1)** — Programa de Computador. Número do registro: <code>BR512026000653-8</code>. Ligado ao projeto IA².
+  
+</div>
+
+<br/>
+
+
+
+<!--
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-gh&layout=compact&langs_count=10&bg_color=0e1118&border_color=AAA&card_width=1000&text_color=979797&title_color=CACACA"/>
 </div>
-<!--
 <div align="left">
   <p align="left" font-size="10px" align-items="center"><h4>Contagem de visitantes:</h4>
   <img src="https://profile-counter.glitch.me/{luc-gh}/count.svg" /></p> 
