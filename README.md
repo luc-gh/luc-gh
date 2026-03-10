@@ -111,9 +111,9 @@
 
 [<img align="left" justify="center" width="94px" alt="GEDAI" src="./assets/logo.jpg"/>](https://sites.google.com/view/gedai-ufal/in%C3%ADcio)
 
-**Cientista de dados e da computação** <kbd>2023 - 2026*</kbd> \
-[**Group of Engineering in Decision-Making and Artificial Intelligence - GEDAI.UFAL**](https://sites.google.com/view/gedai-ufal/in%C3%ADcio) • Horário flexível | Remoto \
-Linguagens & Tecnologias: `Python`, `Matplotlib`, `Selenium`, `Pandas`, `JavaScript`, `Puppeteer`\
+**Cientista de dados e da computação** <kbd>2023 - 2026</kbd> \
+[**Group of Engineering in Decision-Making and Artificial Intelligence - GEDAI.UFAL**](https://sites.google.com/view/gedai-ufal/in%C3%ADcio) • **Encerrado** \
+Linguagens & Tecnologias: `Python`, `Matplotlib`, `Selenium`, `Pandas`, `JS`, `Puppeteer`, `Git`, `Streamlit` \
 Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Segurança Pública no Estado de Alagoas)](https://sites.google.com/view/gedai-ufal/projetos/pesquisa?authuser=0#h.2l5qmrp39v6k)
 <br/>
 
