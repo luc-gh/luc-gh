@@ -117,7 +117,7 @@ Linguagens & Tecnologias: `Python`, `Matplotlib`, `Selenium`, `Pandas`, `JS`, `P
 Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Segurança Pública no Estado de Alagoas)](https://sites.google.com/view/gedai-ufal/projetos/pesquisa?authuser=0#h.2l5qmrp39v6k)
 <br/>
 
-[<img align="left" width="94px" alt="UFAL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bras%C3%A3o_Ufal.png/1200px-Bras%C3%A3o_Ufal.png"/>](https://ufal.br/)
+[<img align="left" width="94px" alt="UFAL" src="./assets/ufal-logo.png"/>](https://ufal.br/)
 
 **Desevolvedor Backend & Java** <kbd>2022 - 2026*</kbd> \
 [**Universidade Federal de Alagoas**](https://ufal.br/) • Vespertino | Presencial \
@@ -125,7 +125,7 @@ Linguagens & Tecnologias: `Java`, `Spring`, `MongoDB`, `Node.js`
 <br/>
 <br/>
 
-[<img align="left" width="94px" alt="ReeluNet" src="https://www.reelu.com.br/wp-content/uploads/2021/05/logo_nova.png"/>](https://www.reelu.com.br/)
+[<img align="left" width="94px" alt="ReeluNet" src="./assets/reelu.png"/>](https://www.reelu.com.br/)
 
 **Estagiário em desevolvimento Web e de Software** <kbd>2025 - </kbd> \
 [**Reelu Net**](https://www.reelu.com.br/) • Matutino | Híbrido \
