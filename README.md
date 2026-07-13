@@ -8,7 +8,7 @@
 <div align="left">
 
   <h3></h3>
-  Discente da faculdade em Ciência da Computação na Universidade Federal de Alagoas, Brasil.
+  Cientista da Computação, pela Universidade Federal de Alagoas, Brasil.
   <br>
 
   <br/>
