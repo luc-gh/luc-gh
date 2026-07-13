@@ -119,9 +119,9 @@ Projetos em destaque: [**IA²** (Ferramentas Inteligentes para Apoio à Seguran�
 
 [<img align="left" width="94px" alt="UFAL" src="./assets/ufal-logo.png"/>](https://ufal.br/)
 
-**Desevolvedor Backend & Java** <kbd>2022 - 2026*</kbd> \
+**Desevolvedor Full Stack** <kbd>2022 - 2026</kbd> \
 [**Universidade Federal de Alagoas**](https://ufal.br/) • Vespertino | Presencial \
-Linguagens & Tecnologias: `Java`, `Spring`, `MongoDB`, `Node.js`
+Linguagens & Tecnologias: `Java`, `Spring`, `MongoDB`, `Node.js`, `Python`, `Javascript`, `OOP`, `C`, `React.js`
 <br/>
 <br/>
 
