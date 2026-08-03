@@ -124,7 +124,7 @@ Linguagens & Tecnologias: `Java`, `Spring`, `MongoDB`, `Node.js`, `Python`, `Jav
 
 [<img align="left" width="94px" alt="ReeluNet" src="./assets/reelu.png"/>](https://www.reelu.com.br/)
 
-**Estagiário em desevolvimento Web e de Software** <kbd>2025 - </kbd> \
+**Estagiário em desevolvimento Web e de Software** <kbd>2025 - 2026</kbd> \
 [**Reelu Net**](https://www.reelu.com.br/) • Matutino | Híbrido \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `MySQL`
 
