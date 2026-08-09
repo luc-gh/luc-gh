@@ -62,9 +62,6 @@
     <a href="https://render.com/">
       <img src="https://img.shields.io/badge/Render-080808?style=for-the-badge&logo=render&logoColor=EEEEEE">
     </a>
-    <a href="https://vercel.com/">
-      <img src="https://img.shields.io/badge/Vercel-020202?style=for-the-badge&logo=vercel&logoColor=EFEFEF">
-    </a>
     <a href="https://www.prisma.io/">
     <img src="https://img.shields.io/badge/Prisma-3F15F1?&style=for-the-badge&logo=prisma&logoColor=000000">
     </a>
